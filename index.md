@@ -5,7 +5,7 @@
   - [Italic](#italic)
   - [Bold italic](#bold-italic)
   - [Quote](#quote)
-  - [Code \& formulas](#code--formulas)
+  - [Code and formulas](#code-and-formulas)
     - [Code phrase](#code-phrase)
     - [Formula](#formula)
     - [Code block](#code-block)
@@ -50,7 +50,7 @@ This is a quote:
 > Lorem ipsum.  
 > Etc.
 
-### Code & formulas
+### Code and formulas
 
 #### Code phrase
 
