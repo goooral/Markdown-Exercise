@@ -52,3 +52,13 @@ Like this: [Weather forecast](https://www.meteo.pl/)
 #### Internal
 
 Link to file example: [Additional information](reference.md)
+
+### Images
+
+#### External
+
+![Random image](https://fastly.picsum.photos/id/34/200/200.jpg?hmac=XRWBHNng_p1BDrqV2tGH2Fbk12qD7KRzoufu_JIJW20)
+
+#### Internal
+
+![Bread](bread.jpg "Bread")
