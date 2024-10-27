@@ -55,7 +55,7 @@ This is a text with `void` code phrase.
 
 This is a code block:
 
-```
+```python
 if cow in barn: 
     barn.add('stink')
 else:
