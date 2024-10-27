@@ -49,3 +49,6 @@ else:
 
 Like this: [Weather forecast](https://www.meteo.pl/)
 
+#### Internal
+
+Link to file example: [Additional information](reference.md)
