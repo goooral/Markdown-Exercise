@@ -77,3 +77,11 @@ Link to file example: [Additional information](reference.md)
 * Another bullet
 * Yet another bullet
 
+## Tables
+
+| Column | Column 2 | Column 3 |
+| ------ | -------- | -------- |
+| Row 1 | Still Row 1 | Row 1 once more |
+| Row 2 | Row 2 column 2 | You won't guess |
+| Very long sentence | Another very long sentence | Row 3 |
+|
