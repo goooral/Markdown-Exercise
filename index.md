@@ -41,3 +41,11 @@ if cow in barn:
 else:
     print(barn)
 ```
+## Linking elements
+
+### Links to content
+
+#### External
+
+Like this: [Weather forecast](https://www.meteo.pl/)
+
