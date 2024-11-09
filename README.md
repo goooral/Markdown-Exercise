@@ -1,2 +1,2 @@
 # Markdown-Exercise
-Jest to ćwiczenie
+Bits and bobs
